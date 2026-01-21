@@ -41,12 +41,12 @@ branching and merging.
 
 
 ## Step-by-Step Git Implementation
--git init
--git status
--git add .
--git commit -m "message"
--git checkout -b branch-name
--git checkout main
--git merge branch-name
--git remote add origin <repository-url>
--git push -u origin main
+- git init
+- git status
+- git add .
+- git commit -m "message"
+- git checkout -b branch-name
+- git checkout main
+- git merge branch-name
+- git remote add origin <repository-url>
+- git push -u origin main
